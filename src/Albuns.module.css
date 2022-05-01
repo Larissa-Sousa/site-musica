@@ -1,0 +1,47 @@
+.Albuns{
+    width: 100%;
+    height: 1458px;
+    background-image: url(imagens/album.png);
+  }
+  
+  .ParteSuperior2{
+    width: 100%;
+    height: 248.01px;
+    background-image: url(imagens/cima-2.png);
+    text-align: center;
+  }
+  
+  .ParteSuperior2 h1{
+    padding-top: 80px;
+    font-size: 60px;
+  }
+  
+  .Linha1{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content: space-around;
+    color:#ffffff;
+    text-align: center;
+    margin-top: 10%;
+  }
+  
+  .Linha1 p{
+    margin-top: 4%;
+    font-size: 25px;
+  }
+  
+  .Linha2{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content: space-around;
+    color:#ffffff;
+    text-align: center;
+    margin-top: 10%;
+  }
+  
+  .Linha2 p{
+    margin-top: 4%;
+    font-size: 25px;
+  }

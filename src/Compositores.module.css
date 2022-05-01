@@ -1,0 +1,28 @@
+.Compositores{
+    background-image: url(imagens/piano.png);
+    width: 100%;
+    height: 1264px;
+  }
+  
+  .ParteSuperior{
+    width: 100%;
+    height: 406px;
+    background-image: url(imagens/cima.png);
+    color: white;
+    text-align: center;
+  }
+  
+  .ParteSuperior h1{
+    padding-top: 140px;
+    font-size: 60px;
+  }
+  
+  .CompositoresFotos{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 90px;
+  }
